@@ -1,4 +1,4 @@
-gmon@gmon-Inspiron-3543:~/Desktop/fosslab/exp8$ ./perl.pl
+arhem@arhem-Inspiron-3543:~/Desktop/fosslab/exp8$ ./perl.pl
 Please enter a string on which you would like to perform the regular expression operations
 hello wolrd
 Please enter the Regular expression to be evaluated
